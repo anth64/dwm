@@ -52,3 +52,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+# dwm specific
+config.h
+*.orig
+patches/
+dwm
